@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_90d280a889f141b102bd4aa53d2a32f48bc648c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_90c5fbc5fe30a4b6d9c6fce9bc9205c6348a9579.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-11.0.4_8c0c9fd4b3f214dcbb80beb193f21957d67661d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/Antiqueruby/react-native-i18n/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="265d5a9330ad02283d16b9886fe8acebb306cd1e">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/Antiqueruby-react-native-i18n-unspecified_525cc97169cec9455310af3a333b8a9882bb4d79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/Antiqueruby/react-native-gesture-handler/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a851124cde84010a0404fb4cef2b44d3be90511a">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/Antiqueruby-react-native-gesture-handler-unspecified_cef159b2541e1dce79c8f5f953907f1e264ff6b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_6c345aaacb6b26d99cfffe864d86194117ff9e58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/Antiqueruby/react-native-config/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45586990f4e58db6e2dcad1eeb38f0179ba6b06d">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/Antiqueruby-react-native-config-unspecified_cf1ace25f2057f08210db45b290fd4457ac84d0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_015e1c4448816e39463d45a1e95635eb56a45af2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-11.0.4_3bfeceffab3f1246d545f185cf987f50383c6780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_d96b5e7573996678afe20ed1a7fe3fac09c050b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_61fb1f4dd26b3c2b09129cac662779d112d4e83b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_85edcff0ad2a89200ea7f31b578ae3e0bf1f132a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_9418b992d0f1cad2a3d8820c478bc415ca653d61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_1160c2045e564f1eee5a2f25e91cae0e80370f27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-11.0.4_bbb719b208a0e6b9df5ebb2a6bf40e441a55d90a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_76845b4263bc750dd6adc58724791e55dc683f80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_9e13fc5bcf58c2f7310c7faee93190eca3e62f01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_fb2b7cfe9c702ec4d44ccce6aac5b2a3d1a71ca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_f25aa9ea5974f79117a02e1d41fbecdbeee29f19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_1bf376c54072a653418dc2bf25fdbbedbf31f19d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_9f0c6ac3665f870e08457f30ac836b8314307dcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-11.0.4_cd05e8cd69b6f4f2b47dfb27d28e42a94a8035a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/Antiqueruby/react-native-device-info/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2e4336ffc2b7653868134d7f6f8b28523ef54645">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/Antiqueruby-react-native-device-info-unspecified_65dc8c7139a36718b6b1e04316eb387e067390c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_ca728d866f76d4dd283805e837fde98be0624218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f768861356f4cd8613da447181fd15c3f584f52d">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.4_ac60cefee05f7375e7226c9e8348294e23eb665e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_837dba99c8321a4a8c5cfc2b9606bbe31d863eac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_9970b240bfaf3f57f1f911a48a10197ab853144d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-11.0.4_4c518f597e2ecde1974d1bb35e70f31b14571691.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_784e6548b9e6b35aa0e869e6ddb8818c5567afb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_e99ee974af2c42df9e9c3ba0f81c73e5bdb4f6b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-11.0.4_b2124225915c5a7294ab880e5cdc020de4e9fc11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_2fb7f5d27b3f21c927c374bde4e3b663c974f08a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-11.0.4_03f4dd31973cc78ef67f8c0606d631fb217a205d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_d9190d2be3b13d9ef8050f2163330301945f504e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/Antiqueruby/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/Antiqueruby-react-native-vector-icons-unspecified_1c0e445c1a9a20431168d39441da8b8f74eb28bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/Antiqueruby/react-native-linear-gradient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="10bce3308649051968a5a024ca15a2193838eed4">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/Antiqueruby-react-native-linear-gradient-unspecified_eb715c15dce947bf2403f203efa13a91650907ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_01d4f9e92144198bf063aa92a2d8986d688841d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_ccd9a2d55d1a22488421b71b232df7de8fb60d73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/Antiqueruby/react-native-admob/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9b451495a4aacb606c675afc3d37ffd3d5657c02">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/Antiqueruby-react-native-admob-unspecified_7535fa2e7599b4080706374554c2c370df3f831e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_b92cbcbc30109c45d889bf556e74b81a52e9fb74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_e84cb477112879bb352fece8980832fc504e7e01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/mack1/Desktop/Krupal/React_Antiqueruby/repo_aniquerubyreact/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_70e7c367c734b24192b0777da433af401a1fbdbe.jar" />
+    </item>
+
+</items>
